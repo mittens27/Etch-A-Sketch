@@ -4,7 +4,7 @@ body {
     align-content: center;
     justify-content: center;
     align-items: center;
-    background-color: rgb(45, 45, 45);
+    background-color: rgb(131, 131, 131);
 }
 
 button {
@@ -28,4 +28,5 @@ button {
     max-height: 256px;
    box-sizing: border-box;
    outline: 1px solid black;
+   box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
 }
